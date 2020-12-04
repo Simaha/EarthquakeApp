@@ -1,4 +1,4 @@
-package com.example.quakereport;
+package com.example.earthquakeapp;
 
 import android.text.TextUtils;
 import android.util.Log;
